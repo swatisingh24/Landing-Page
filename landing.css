@@ -1,7 +1,7 @@
 body{
 	background: url(https://source.unsplash.com/cRLEVt6SZxI);
 	background-size: cover;
-	background-position: center;
+	background-position: left;
 	font-family: Lato;
 }
 
@@ -18,7 +18,7 @@ html{
 }
 
 h1,h3{
-	color: white;
+	color: blue;
 }
 
 h1{
@@ -27,7 +27,7 @@ h1{
 }
 
 hr{
-	width: 400px;
-	border-top: 1px solid #f8f8f8;
-	border-bottom: 1px solid rgba(0,0,0,0.2);
+	width: 200px;
+	border-top: 2px solid #f9f9f9;
+	border-bottom: 2px solid rgba(0,0,0,0.2);
 }
